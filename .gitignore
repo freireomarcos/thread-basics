@@ -1,0 +1,43 @@
+# .gitignore for .NET 8 projects using Visual Studio 2022
+
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio 2022 settings
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Rider
+.idea/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Logs
+*.log
+
+## Others
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# End of .gitignore
