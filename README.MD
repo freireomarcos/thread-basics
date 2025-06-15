@@ -1,4 +1,4 @@
-# Threading Basics (.NET 8) – Examples and Explanations
+# Threading Basics – Examples
 
 This project demonstrates the usage of various threading and synchronization primitives in C#. Each example is implemented in a dedicated class, showing how to coordinate and control access to shared resources in multithreaded scenarios.
 
@@ -111,5 +111,3 @@ Utility class to simulate work by sleeping the current thread.
 2. Build the project (targets .NET 8).
 3. Run the application.  
 4. Use the console menu to select and observe each threading example.
-
----
